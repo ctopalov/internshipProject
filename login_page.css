@@ -1,0 +1,62 @@
+body {
+    background-color: #8EDCF2;
+    color: #707070;
+    font-family:'Kohinoor Telugu', sans-serif;
+    position: relative;
+    vertical-align: text-top;
+}
+.logoImg {
+    text-align: center;
+    padding: 10px;
+}
+.log_box1 {
+    background-color: #F1FFE7;
+    padding: 10px;
+    height: 200px;
+    width: 450px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+.title {
+    font-size: 25px;
+    text-shadow: 1px 1px;
+}
+.studentButton {
+    background-color: #F1FFE7;
+    border: none;
+    color: #707070;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    left: -20px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.studentButton:hover{
+    background-color: #8EDCF2;
+    border: 1px;
+}
+.teacherButton{
+    background-color: #F1FFE7;
+    border: none;
+    color: #707070;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.teacherButton:hover{
+    background-color: #8EDCF2;
+    border: 1px;
+}

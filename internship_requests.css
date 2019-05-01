@@ -1,0 +1,136 @@
+body{
+    background-color: #8EDCF2;
+    color: #707070;
+    font-family:'Kohinoor Telugu', sans-serif;
+    position: relative;
+    vertical-align: text-top;
+}
+
+.menuBox{
+    color: white;
+    background: #F1FFE7;
+    width: 308px;
+    height: 750px;
+    position: relative;
+    left:-8px;
+    top:-9px;
+    border-right: solid;
+    border-bottom: solid;
+    border-top: solid;
+    border-color:#246DA7;
+    position: fixed;
+}
+
+.hpButton{
+    background-color: #8EDCF2;
+    height: 75px;
+    width: 308px;
+    padding-left: 63px;
+    padding-right: 63px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 4;
+    font-size: 19px;
+    font-weight: bold;
+    text-decoration: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    margin-bottom: auto;
+}
+.hpButton:hover{
+    background-color: #FFFFFF;
+    color: #8EDCF2;
+    border: solid;
+}
+
+.otherButtons{
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #707070;
+    font-weight: bold;
+    height: 75px;
+    width: 308px;
+    padding-left: 111px;
+    padding-right: 111px;
+    padding-top: 25px;
+    position:relative;
+    top: 40px;
+    padding-bottom: 25px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.otherButtons:hover{
+    background-color: #8EDCF2;
+    color: #FFFFFF;
+
+}
+.otherButtons2{
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #707070;
+    font-weight: bold;
+    height: 75px;
+    width: 308px;
+    padding-left: 95px;
+    padding-right: 95px;
+    padding-top: 25px;
+    position:relative;
+    top: 105px;
+    padding-bottom: 25px;
+}
+
+.otherButtons2:hover{
+    background-color: #8EDCF2;
+    color: #FFFFFF;
+}
+
+.otherButtons3{
+    background-color: #FFFFFF;
+    text-decoration: none;
+    color: #707070;
+    font-weight: bold;
+    height: 75px;
+    width: 308px;
+    padding-left: 115px;
+    padding-right: 110px;
+    padding-top: 25px;
+    position:relative;
+    top: 175px;
+    padding-bottom: 25px;
+}
+.otherButtons3:hover{
+    background-color: #8EDCF2;
+    color: #FFFFFF;
+}
+
+.menuImg{
+    padding-top: 40px;
+    padding-left: 80px;
+}
+
+.topMsg{
+    position: absolute;
+    top: -17px;
+    left: 295px;
+    font-size: 32px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    background-color: #FFFFFF;
+    width: 683px;
+    padding-left: 305px;
+    padding-right: 143px;
+    color: #246DA7;
+    border: solid;
+}
+
+.mainMsg{
+    position: absolute;
+    top: 320px;
+    left: 435px;
+    background-color: #FFFFFF;
+    padding: 70px;
+    width: 750px;
+    
+}
